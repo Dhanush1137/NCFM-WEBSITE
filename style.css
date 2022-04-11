@@ -1,0 +1,62 @@
+#back {
+    border: 2px solid orange;
+}
+
+#logo {
+    background-color: white;
+    
+}
+
+/* @media  screen and (orientation:portrait) {
+    #logo{
+        display: none;
+        /* background-color: yellow; */
+        
+        
+    /* }
+    h2:hover{
+        background-color: gold;
+        color: gray;
+       
+        
+    }
+    
+} */
+/* @media screen and (orientation:landscape) {
+    h2{
+        border: 5px solid green;
+    }
+} */ 
+.header {
+    background-color: rgb(83, 46, 117);
+    color: white;
+}
+
+#para1 {
+    padding-right: 50px;
+    padding-left: 210px;
+    padding-top: 0px
+}
+.img1{
+    float:left;width:75px;height:50%;padding:0px
+}
+#slider{
+    width:70%;
+    height: 50%;
+    margin-left: 100px;
+}
+h2{
+    background-color: rgb(92, 69, 148);
+    color: white;
+    text-align: center;
+}
+footer{
+   
+    text-align: center;
+    padding: 20px;
+}
+#img1,#img2{
+    background-color: black;
+    color: white;
+}
+
